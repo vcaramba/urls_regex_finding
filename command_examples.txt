@@ -1,0 +1,4 @@
+- python3 parser.py --urls 'https://some_url.com' 'https://some_url.com' --regex '<a href="(.*?)".*>(.*)</a>' '<p>(.*)</p>'
+
+- python parser.py --urls 'https://some_url.com' 'https://some_url.com' --regex '<a href="(.*?)".*>(.*)</a>' '<p>(.*)</p>'
+

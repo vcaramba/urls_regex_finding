@@ -1,0 +1,5 @@
+initial_url	regex_matching_result
+18:50:27 DEBUG:asyncio: Using selector: SelectSelector
+18:50:27 INFO:areq: Got response [200] for URL: https://www.google.com/
+18:50:27 INFO:areq: Found 0 matches for https://www.google.com/
+https://www.google.com/	[{'<p>(.*)</p>'}, set()]
